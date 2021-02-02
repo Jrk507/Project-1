@@ -1,14 +1,13 @@
-﻿using System.Collections;
+﻿//Author: Jason Kmieciak
+//Credit: Alexander Zotov : https://www.youtube.com/watch?v=yFKg8qVclBk
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Attacked : MonoBehaviour
 {
-    
-
+ 
     private bool pickUpAllowed;
-
-    
 
     // Update is called once per frame
     private void Update()

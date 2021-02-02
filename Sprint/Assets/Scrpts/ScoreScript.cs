@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿//Author: Jason Kmieciak
+//Credit: Alexander Zotov : https://www.youtube.com/watch?v=QbqnDbexrCw
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;    
